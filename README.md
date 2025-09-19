@@ -23,7 +23,7 @@ A project dedicated to recognizing and promoting the inherent dignity of every i
 ![Alt text](images/Body2.png) 
 ![Alt text](images/Body3.png)
 ![Alt text](images/Body4.png)
-![Alt text](images/Footer.png)
+![Alt text](Whereas-recognition-of-the-inherent-dignit/images/Footer.png)
 
 ## Usage
 Open `index.html` in your web browser to view the project. Customize `style.css` and the `fonts/` directory as needed.
