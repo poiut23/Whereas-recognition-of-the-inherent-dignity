@@ -18,12 +18,12 @@ A project dedicated to recognizing and promoting the inherent dignity of every i
 
 ## Screenshots
 
-![Alt text]: images/Head.png
-![Alt text]: images/Body1.png
-![Alt text]: images/Body2.png 
-![Alt text]: images/Body3.png 
-![Alt text]: images/Body4.png 
-![Alt text]: images/Footer.png
+![Alt text](images/Head.png)
+![Alt text](images/Body1.png)
+![Alt text](images/Body2.png) 
+![Alt text](images/Body3.png)
+![Alt text](images/Body4.png)
+![Alt text](images/Footer.png)
 
 ## Usage
 Open `index.html` in your web browser to view the project. Customize `style.css` and the `fonts/` directory as needed.
