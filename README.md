@@ -18,9 +18,12 @@ A project dedicated to recognizing and promoting the inherent dignity of every i
 
 ## Screenshots
 
-[!]()
-[!]()
-[!]()
+[!This is the heading Screenshot]()
+[!This is the body Screenshot]()
+[!This is the body Screenshot]()
+[!This is the body Screenshot]()
+[!This is the body Screenshot]()
+[!This is the footer]()
 
 ## Usage
 Open `index.html` in your web browser to view the project. Customize `style.css` and the `fonts/` directory as needed.
